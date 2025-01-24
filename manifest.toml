@@ -1,10 +1,10 @@
 packaging_format = 2
 
-id = "my_webapp"
-name = "my_webapp"
-description.fr = ""
+id = "note"
+name = "Note"
+description.fr = "Note"
 
-version = "1.0"
+version = "0.1"
 
 maintainers = []
 
