@@ -1,7 +1,7 @@
 packaging_format = 2
 
 id = "my_webapp"
-name = "note"
+name = "my_webapp"
 description.fr = ""
 
 version = "1.0"
