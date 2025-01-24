@@ -1,6 +1,6 @@
 packaging_format = 2
 
-id = "note"
+id = "my_webapp"
 name = "note"
 description.fr = ""
 
